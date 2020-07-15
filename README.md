@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![](https://i.pinimg.com/originals/4b/f8/33/4bf833edfd2763fc5cd4283e78762566.gif)
 <!--
 **kchiron/kchiron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
